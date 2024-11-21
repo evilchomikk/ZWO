@@ -1,8 +1,5 @@
-<php>
+<?php
+    $blad_SQL='';
+    $lokacja_plikow='/dane_MK/';
 
-private string $form_dodaj_film_MK;
-
-
-
-
-<?php>
+?>
